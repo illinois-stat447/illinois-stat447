@@ -3,7 +3,7 @@
 This organization support the STAT 447 "Data Science Programming Methods" class at U of Illinois. 
 See the [course website](https://www.stat447.com) for more details.
 
-For the Spring 2024 we have the following repositories for discussions:
+For the Spring 2024 term we have the following repositories for discussions:
 - [General Discussion](https://github.com/illinois-stat447/sp24-general-discussion) for general questions
 - [Homework Discussion](https://github.com/illinois-stat447/sp24-homework-discussion) for questions concerning specific homework questions
 - [Project Discussion](https://github.com/illinois-stat447/sp24-project-discussion) for any questions relating to the course project
